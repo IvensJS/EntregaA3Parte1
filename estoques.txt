@@ -1,0 +1,9 @@
+Medicamento:Rivotril,Forma Farmacêutica:gotas,Data de validade:03/04/2024,Preço do produto: R$50,Quantidade em Estoque:4,
+Número do lote: 00004,Número de Telefone para contato: 4002-8922,Endereço do Fornecedor:Rua da Primavera 
+
+Medicamento:Rivotril,Forma Farmacêutica:Gotas,Data de validade:24/05/2024,Preço do produto: R$50,Quantidade em Estoque:4,
+Número do lote: 0004545,Número de Telefone para contato: (35)4002-8922,Endereço do Fornecedor:Exemplo então nãi sei o que colocar aqui
+
+Medicamento:Selozok,Forma Farmacêutica:gota,Data de validade:24/10/2025,Preço do produto: R$50,Quantidade em Estoque:04,
+Número do lote: 00004646,Número de Telefone para contato: 40002-8922,Endereço do Fornecedor:Rua da Primavera
+
